@@ -1,1 +1,2 @@
-Amazon Clone App using HTML,CSS and JavaScript
+<b>Amazon Clone App using HTML,CSS and JavaScript</b>
+
