@@ -28,10 +28,10 @@ The sign-in page allows returning users to log into their account with an email 
 <b>4. Sign-Up Page</b>
 The sign-up page lets new users create an account by entering their name, email, and password. The page includes form validation and error messages for empty fields.<br>
 
-<h1>Screenshots</h1><br>
+<h1>Screenshots</h1>
 
 <h4>Homepage</h4>
-<img src="Screenshot 2025-02-12 134853.png" alt="">
+<img src="Screenshot 2025-02-12 134853.png" alt="amazone home page" height="500" width="400">
 
 <h4>Cart Page</h4>
 
