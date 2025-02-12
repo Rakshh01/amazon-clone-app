@@ -26,4 +26,15 @@ In the cart page, users can view all the products added to their cart, modify th
 The sign-in page allows returning users to log into their account with an email and password. Form validation ensures that both fields are filled before submission.
 
 <b>4. Sign-Up Page</b>
-The sign-up page lets new users create an account by entering their name, email, and password. The page includes form validation and error messages for empty fields.
+The sign-up page lets new users create an account by entering their name, email, and password. The page includes form validation and error messages for empty fields.<br>
+
+<h1>Screenshots</h1><br>
+
+<h4>Homepage</h4>
+<img src="Screenshot 2025-02-12 134853.png" alt="">
+
+<h4>Cart Page</h4>
+
+<h4>Sign-In Page</h4>
+
+<h4>Sign-Up Page</h4>
