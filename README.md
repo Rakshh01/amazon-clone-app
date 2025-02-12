@@ -2,13 +2,13 @@
 <h4>This project is an Amazon clone built using HTML, CSS, and JavaScript. It replicates the user interface and some core functionality of the Amazon website. It features multiple pages like the homepage, cart page, sign-in page, and sign-up page to simulate a real e-commerce experience.</h4>
 
 <h2>Features</h2>
-<b>Homepage</b>: Displays a range of products, categories, and navigation options.
-<b>Product Listing</b>: Showcases products in a grid with basic details such as name, price, and image.
-<b>Search Bar</b>: Allows users to search for products.
-<b>Cart Page</b>: Users can view the products they've added to their cart and proceed to checkout.
-<b>Sign In Page</b>: Users can sign in to their account.
-<b>Sign Up Page</b>: Allows users to create an account to start shopping.
-<b>Responsive Design</b>: The app adapts to mobile and desktop screen sizes.
+<b>Homepage</b>: Displays a range of products, categories, and navigation options.<br>
+<b>Product Listing</b>: Showcases products in a grid with basic details such as name, price, and image.<br>
+<b>Search Bar</b>: Allows users to search for products.<br>
+<b>Cart Page</b>: Users can view the products they've added to their cart and proceed to checkout.<br>
+<b>Sign In Page</b>: Users can sign in to their account.<br>
+<b>Sign Up Page</b>: Allows users to create an account to start shopping.<br>
+<b>Responsive Design</b>: The app adapts to mobile and desktop screen sizes.<br>
 
 <h3>Tech Stack</h3>
 <b>HTML:</b> Provides the structure of the website.
