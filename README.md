@@ -31,7 +31,7 @@ The sign-up page lets new users create an account by entering their name, email,
 <h1>Screenshots</h1>
 
 <h4>Homepage</h4>
-<img src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-02-12 134853.png" alt="amazone home page" height="500" width="400">
+<img src="C:\Users\DELL\Pictures\Screenshots/Screenshot 2025-02-12 134853.png" alt="amazone home page" height="500" width="400">
 
 <h4>Cart Page</h4>
 
