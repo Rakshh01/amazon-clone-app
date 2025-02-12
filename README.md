@@ -11,13 +11,13 @@
 <b>Responsive Design</b>: The app adapts to mobile and desktop screen sizes.<br>
 
 <h3>Tech Stack</h3>
-<b>HTML:</b> Provides the structure of the website.
-<b>CSS:</b> Adds styling and layout for a user-friendly interface.
-<b>JavaScript:</b> Implements interactivity such as adding products to the cart and form validation for sign-up/sign-in.
+<b>HTML:</b> Provides the structure of the website.<br>
+<b>CSS:</b> Adds styling and layout for a user-friendly interface.<br>
+<b>JavaScript:</b> Implements interactivity such as adding products to the cart and form validation for sign-up/sign-in.<br>
 
 <h4>Pages Overview</h4>
 <b>1. Homepage</b>
-The homepage displays a collection of products with a featured section, categories, and a search bar. Users can click on products to view more details.
+The homepage displays a collection of products with a featured section, categories, and a search bar. Users can click on products to view more details.<br>
 
 <b>2. Cart Page</b>
 In the cart page, users can view all the products added to their cart, modify the quantity, or remove items. It also includes the total price and an option to proceed to checkout.
